@@ -1,4 +1,4 @@
-# Text-Summarization-Model
+# Text-Summarization-Model-using-LLMs
 
 This repository contains a project to implement **text summarization** using state-of-the-art **Large Language Models (LLMs)**. It demonstrates how to efficiently summarize lengthy pieces of text into concise summaries using machine learning and natural language processing (NLP) techniques.
 
